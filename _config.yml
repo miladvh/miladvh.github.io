@@ -1,11 +1,9 @@
-title: El nombre de tu sitio
+title: MilaDVH
 author:
-  name: Tu nombre
-  email: tu_mail@miami.edu
+  name: Mila Dvorquez-Herrera
+  email: mdd140@miami.edu
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ Sitio web para las humanidades digitales de SPA 410.
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -16,8 +14,8 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: 
+    github:  miladvh
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
