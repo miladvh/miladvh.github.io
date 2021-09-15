@@ -8,6 +8,6 @@
 layout: home
 ---
 
-Bienvenidos a mi página web de SPA 410, en este sitio voy a recopilar todos mis ejercicios y proyectos de este curso. 
+Bienvenidos a mi página web de SPA 410, en dónde voy a recopilar todos mis ejercicios y proyectos de este curso. 
 
 Este sitio web que hemos creado el código de la plantilla Minima que puede descargarse en GitHub: [minima](https://github.com/jekyll/minima)
