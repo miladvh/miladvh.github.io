@@ -2,7 +2,7 @@
 layout: post
 title: "Análisis de un proyecto de HD"
 date: 2021-08-30
-author: vuestro nombre
+author: Mila Dvorquez-Herrera
 ---
 
 
