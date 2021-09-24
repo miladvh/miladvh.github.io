@@ -8,7 +8,6 @@ author: Mila Dvorquez-Herrera
 <metadata
     xmlns:dc="http://purl.org/dc/elements/1.1/">
     
-This is the first line. 
     <dc:title> 
         Postal de Federico García Lorca a Jose María Chacón (1942)
     </dc:title> 
