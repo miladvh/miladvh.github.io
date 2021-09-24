@@ -4,7 +4,7 @@ title: "Metadatos sobre la postal de Federico García Lorca"
 date: 2021-09-22
 author: Mila Dvorquez-Herrera
 ---
-<xml version="1.0"?>
+<?xml version="1.0"?>
 <metadata
     xmlns:dc="http://purl.org/dc/elements/1.1/">
     
