@@ -11,9 +11,12 @@ author: Mila Dvorquez-Herrera
     <dc:title> 
         Postal de Federico García Lorca a Jose María Chacón (1942)
     </dc:title>
+    <body>
+        <p>Creador
     <dc:creator> 
         García Lorca, Federico
     </dc:creator>
+        </p> 
     <dc:subject> 
         Madrid
     </dc:subject>
@@ -62,5 +65,6 @@ author: Mila Dvorquez-Herrera
     <dc:rights> 
         Dominio público
     </dc:rights>
+    </body>
 
 </metadata>
