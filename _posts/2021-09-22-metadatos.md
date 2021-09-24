@@ -17,7 +17,7 @@ author: Mila Dvorquez-Herrera
     <dc:creator> 
         García Lorca, Federico
     </dc:creator> 
-    This is the third line.
+    Las palabras clave que utilicé para explicar la postal: 
     <dc:subject> 
         Madrid
     </dc:subject>
@@ -30,50 +30,50 @@ author: Mila Dvorquez-Herrera
     <dc:subject> 
         Federico García Lorca
     </dc:subject>
-    This is the third line. 
+    La descripción de la postal enviada por García Lorca: 
     <dc:description> 
         Carta personal con un dibujo de una flor de García Lorca desde Lanjaron a su amigo, Jose María Chacón en Madrid
     </dc:description>
-    This is the fourth line.
+    El editor de la postal es: 
     <dc:publisher> 
         Edición Jose Galvez
     </dc:publisher>
-    This is the fifth line.
+    El contribuyente es el receptor de la postal: 
     <dc:contributor> 
         Jose María Chacón
     </dc:contributor>
-    This is the sixth line.
+    La fecha en que se envió la postal: 
     <dc:date> 
         1924-09-17
     </dc:date>
-    This is the seventh line.
+    El tipo de publicación: 
     <dc:type> 
         Imagen
     </dc:type>
-    This is the eighth line. 
+    El formato de la imagen es:
     <dc:format> 
         jpg
     </dc:format>
-    This is the ninth line. 
+    La postal se puede encontrar aquí: 
     <dc:identifier> 
         https://merrick.library.miami.edu/cdm/compoundobject/collection/chc5324/id/31/rec/19
     </dc:identifier>
-    This is the tenth line. 
+    La fuente de la publicación: 
     <dc:source> 
         University of Miami Libraries Digital Collections
     </dc:source>
-    This is the eleventh line. 
+    El idioma de la postal está en: 
     <dc:language> 
         SPA
     </dc:language>
-    This is the twelfth line.
+   La fecha y el país de origen de la publicación: 
     <dc:coverage> 
         1898-1936
     </dc:coverage>
     <dc:coverage> 
         España
     </dc:coverage>
-    This is the thirteenth line. 
+    La publicación es gratuita para que el público acceda: 
     <dc:rights> 
         Dominio público
     </dc:rights>
