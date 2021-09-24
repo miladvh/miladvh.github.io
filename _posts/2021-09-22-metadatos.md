@@ -7,95 +7,95 @@ author: Mila Dvorquez-Herrera
 <?xml version="1.0"?>
 <metadata
     xmlns:dc="http://purl.org/dc/elements/1.1/">
-
+This is the first line.
     <dc:title> 
         Postal de Federico García Lorca a Jose María Chacón (1942)
-    </dc:title> <br/>
-           
+    </dc:title> 
+       This is the second line.     
     <dc:creator> 
         García Lorca, Federico
     </dc:creator>
-    <br/>
-        
+   
+       This is the third line. 
     <dc:subject> 
         Madrid
     </dc:subject>
-    <br/>
-    
+  
+    This is the fourth line. 
     <dc:subject> 
         correspondencia
     </dc:subject>
-    <br/>
     
+    This is the fifth line. 
     <dc:subject> 
         postales
     </dc:subject>
     
-    
+    This is the sixth line. 
     <dc:subject> 
         Federico García Lorca
     </dc:subject>
-    <br/>
+    
     
     <dc:description> 
         Carta personal con un dibujo de una flor de García Lorca desde Lanjaron a su amigo, Jose María Chacón en Madrid
     </dc:description>
-    <br/>
+    
     
     <dc:publisher> 
         Edición Jose Galvez
     </dc:publisher>
-    <br/>
+    
     
     <dc:contributor> 
         Jose María Chacón
     </dc:contributor>
-    <br/>
+   
     
     <dc:date> 
         1924-09-17
     </dc:date>
-    <br/>
+    
     
     <dc:type> 
         Imagen
     </dc:type>
-    <br/>
+    
     
     <dc:format> 
         jpg
     </dc:format>
-    <br/>
+
     
     <dc:identifier> 
         https://merrick.library.miami.edu/cdm/compoundobject/collection/chc5324/id/31/rec/19
     </dc:identifier>
-    <br/>
+ 
     
     <dc:source> 
         University of Miami Libraries Digital Collections
     </dc:source>
-    <br/>
+  
     
     <dc:language> 
         SPA
     </dc:language>
-    <br/>
+  
     
     <dc:coverage> 
         1898-1936
     </dc:coverage>
-    <br/>
+
     
     <dc:coverage> 
         España
     </dc:coverage>
-    <br/>
+  
     
     <dc:rights> 
         Dominio público
     </dc:rights>
-    <br/>
+   
     
 
 </metadata>
