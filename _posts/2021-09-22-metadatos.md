@@ -8,13 +8,13 @@ author: Mila Dvorquez-Herrera
 <metadata
     xmlns:dc="http://purl.org/dc/elements/1.1/">
     
-    <p>El título corresponde a </p>
+    El título corresponde a
 
     <dc:title>
-        Postal de Federico Garc�a Lorca a Jose Mar�a Chac�n (1942)
+        Postal de Federico García Lorca a Jose María Chacón (1942)
     </dc:title>
     <dc:creator>
-        Garc�a Lorca, Federico
+        García Lorca, Federico
     </dc:creator>
     <dc:subject>
         Madrid
@@ -26,16 +26,16 @@ author: Mila Dvorquez-Herrera
         postales
     </dc:subject>
     <dc:subject>
-        Federico Garc�a Lorca
+        Federico García Lorca
     </dc:subject>
     <dc:description>
-        Carta personal con un dibujo de una flor de Garc�a Lorca desde Lanjaron a su amigo, Jose Mar�a Chac�n en Madrid
+        Carta personal con un dibujo de una flor de García Lorca desde Lanjaron a su amigo, Jose María Chacón en Madrid
     </dc:description>
     <dc:publisher>
-        Edici�n Jose Galvez
+        Edición Jose Galvez
     </dc:publisher>
     <dc:contributor>
-        Jose Mar�a Chac�n
+        Jose María Chacón
     </dc:contributor>
     <dc:date>
         1924-09-17
@@ -62,10 +62,10 @@ author: Mila Dvorquez-Herrera
         1898-1936
     </dc:coverage>
     <dc:coverage>
-        Espa�a
+        España
     </dc:coverage>
     <dc:rights>
-        Dominio p�blico
+        Dominio público
     </dc:rights>
 
 </metadata>
