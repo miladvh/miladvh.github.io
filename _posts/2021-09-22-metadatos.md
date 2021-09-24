@@ -14,14 +14,10 @@ This is the first line.
        This is the second line.     
     <dc:creator> 
         García Lorca, Federico
-    </dc:creator>
-   
-       This is the third line. 
+    </dc:creator> 
     <dc:subject> 
         Madrid
     </dc:subject>
-  
-    This is the fourth line. 
     <dc:subject> 
         correspondencia
     </dc:subject>
