@@ -88,7 +88,4 @@ author: Mila Dvorquez-Herrera
     <dc:rights> 
         Dominio público
     </dc:rights>
-   
-    
-
 </metadata>
