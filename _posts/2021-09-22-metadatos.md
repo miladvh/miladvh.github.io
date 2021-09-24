@@ -7,10 +7,11 @@ author: Mila Dvorquez-Herrera
 <?xml version="1.0"?>
 <metadata
     xmlns:dc="http://purl.org/dc/elements/1.1/"
-    This is the first line.      
+    This is the title.       
     <dc:title> 
         Postal de Federico García Lorca a Jose María Chacón (1942)
     </dc:title> 
+    This is the first line. 
     
     This is the second line.    
     <dc:creator> 
@@ -61,23 +62,18 @@ author: Mila Dvorquez-Herrera
     <dc:source> 
         University of Miami Libraries Digital Collections
     </dc:source>
-  
-    
+    This is the eleventh line. 
     <dc:language> 
         SPA
     </dc:language>
-  
-    
+    This is the twelfth line.
     <dc:coverage> 
         1898-1936
     </dc:coverage>
-
-    
     <dc:coverage> 
         España
     </dc:coverage>
-  
-    
+    This is the thirteenth line. 
     <dc:rights> 
         Dominio público
     </dc:rights>
