@@ -13,9 +13,14 @@ author: Mila Dvorquez-Herrera
     <dc:title>
         Postal de Federico García Lorca a Jose María Chacón (1942)
     </dc:title>
+    
+    El creador de la postal es citado a 
+    
     <dc:creator>
         García Lorca, Federico
     </dc:creator>
+    
+    El subjeto 
     <dc:subject>
         Madrid
     </dc:subject>
@@ -28,15 +33,24 @@ author: Mila Dvorquez-Herrera
     <dc:subject>
         Federico García Lorca
     </dc:subject>
+    
+    Descripción
+    </dc:subject>
     <dc:description>
         Carta personal con un dibujo de una flor de García Lorca desde Lanjaron a su amigo, Jose María Chacón en Madrid
     </dc:description>
+    
+    Publicación
     <dc:publisher>
         Edición Jose Galvez
     </dc:publisher>
+    
+    Contribudor 
     <dc:contributor>
         Jose María Chacón
     </dc:contributor>
+    
+    Fecha
     <dc:date>
         1924-09-17
     </dc:date>
