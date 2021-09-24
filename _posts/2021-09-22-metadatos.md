@@ -11,8 +11,7 @@ author: Mila Dvorquez-Herrera
     <dc:title> 
         Postal de Federico García Lorca a Jose María Chacón (1942)
     </dc:title>
-   
-        
+           
     <dc:creator> 
         García Lorca, Federico
     </dc:creator>
