@@ -7,13 +7,12 @@ author: Mila Dvorquez-Herrera
 <?xml version="1.0"?>
 <metadata
     xmlns:dc="http://purl.org/dc/elements/1.1/"
-    This is the title.       
+    El título de la imagen:       
     <dc:title> 
         Postal de Federico García Lorca a Jose María Chacón (1942)
     </dc:title> 
-    This is the first line. 
     
-    This is the second line.    
+    El creador de la postal es:
     <dc:creator> 
         García Lorca, Federico
     </dc:creator> 
