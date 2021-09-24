@@ -8,7 +8,7 @@ author: Mila Dvorquez-Herrera
 <xml version="1.0"?>
 <metadata
     xmlns:dc="http://purl.org/dc/elements/1.1/"
-    El título de la imagen:       
+  This text is **bold**.  El título de la imagen:       
     <dc:title> 
         Postal de Federico García Lorca a Jose María Chacón (1942)
     </dc:title> 
