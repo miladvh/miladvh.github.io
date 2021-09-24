@@ -5,8 +5,7 @@ date: 2021-09-22
 author: Mila Dvorquez-Herrera
 ---
 <?xml version="1.0"?>
-<metadata
-    xmlns:dc="http://purl.org/dc/elements/1.1/">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     
    El título de la imagen:       
     <dc:title> 
