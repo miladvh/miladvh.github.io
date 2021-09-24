@@ -7,6 +7,8 @@ author: Mila Dvorquez-Herrera
 <?xml version="1.0"?>
 <metadata
     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    
+    <p>El título corresponde a </p>
 
     <dc:title>
         Postal de Federico Garc�a Lorca a Jose Mar�a Chac�n (1942)
