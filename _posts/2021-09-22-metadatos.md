@@ -7,6 +7,8 @@ author: Mila Dvorquez-Herrera
 <?xml version="1.0"?>
 <metadata
     xmlns:dc="http://purl.org/dc/elements/1.1/">
+    
+    Enlace a postal <a href="https://merrick.library.miami.edu/cdm/compoundobject/collection/chc5324/id/31/rec/19></a> 
 
     <dc:title> 
         Postal de Federico García Lorca a Jose María Chacón (1942)
