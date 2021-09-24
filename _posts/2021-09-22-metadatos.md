@@ -7,10 +7,12 @@ author: Mila Dvorquez-Herrera
 <?xml version="1.0"?>
 <metadata
     xmlns:dc="http://purl.org/dc/elements/1.1/">
-This is the first line.
+    
+This is the first line. 
     <dc:title> 
         Postal de Federico García Lorca a Jose María Chacón (1942)
     </dc:title> 
+    
        This is the second line.     
     <dc:creator> 
         García Lorca, Federico
