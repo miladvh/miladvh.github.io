@@ -8,7 +8,7 @@ author: Mila Dvorquez-Herrera
 <metadata
     xmlns:dc="http://purl.org/dc/elements/1.1/">
     
-    El título corresponde a
+    <heading> El título corresponde a </heading>
 
     <dc:title>
         Postal de Federico García Lorca a Jose María Chacón (1942)
