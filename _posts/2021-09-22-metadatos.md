@@ -9,7 +9,9 @@ Doublin Core es un recurso de metadatos con 15 elementos que se utilizan para ca
 
 Aquí está la enlace para la postal que es digitalizada por la biblioteca de la Universidad de Miami: https://merrick.library.miami.edu/cdm/compoundobject/collection/chc5324/id/31/rec/19
 
-Explica qué es cada cosa un poco mejor: 
+La etiqueta de apertura del código refleja nuestra definición del formato de los datos como estilo XML. 
+
+Las etiquetas de metadatos describen el proceso de creación de un término para identificar palabras claves dentro de los archivos digitales de la publicación; en este caso sería la postal: 
 
 ```
 <?xml version="1.0"?>
