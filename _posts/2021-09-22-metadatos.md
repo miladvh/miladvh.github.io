@@ -36,7 +36,9 @@ El remitente y autor de la postal es Lorca por lo que está justificado llamarlo
     </dc:creator> 
  ```
  
-Las palabras clave que solíamos describir la postal son los siguientes porque el origen de la tarjeta es Madrid, la parte escrita es una forma de correspondencia, es una postal y el autor es Lorca: 
+Las palabras clave que solíamos describir la postal son los siguientes porque el origen de la tarjeta es Madrid, la parte escrita es una forma de correspondencia, es una postal y el autor es Lorca.
+
+Como tal, esta descripción se ajusta a las etiquetas de tema porque abarcan el significado de la publicación: 
 
 ```
     <dc:subject> 
@@ -63,7 +65,9 @@ Como tal, decidimos describirlo como una tarjeta destinada a un amigo cercano de
     </dc:description>
  ```
  
-El editor de la postal es: 
+En el lado de la postal con la imagen de Lanjaron, hay escrito que dice "Edición Jose Galvez" que determinamos que es el editor.
+
+Por lo tanto, cae bajo esta etiqueta: 
 
 ```
     <dc:publisher> 
