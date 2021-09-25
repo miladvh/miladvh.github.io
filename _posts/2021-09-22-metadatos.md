@@ -5,7 +5,7 @@ date: 2021-09-22
 author: Mila Dvorquez-Herrera
 ---
 
-Doublin Core es un recurso de metadatos con 15 elementos que se utilizan para catalogar fuentes para bibliotecos e incluso museos. También crea un índice digital completo para motores de búsqueda. Añade los links al item en la biblioteca (está en la Tarea 3) 
+Doublin Core es un recurso de metadatos con 15 elementos que se utilizan para catalogar fuentes para bibliotecas e incluso museos. También crea un índice digital completo para motores de búsqueda. Aquí está la enlace para la postal que es digitalizada por la biblioteca de la Universidad de Miami: https://merrick.library.miami.edu/cdm/compoundobject/collection/chc5324/id/31/rec/19
 
 Explica qué es cada cosa un poco mejor: 
 
