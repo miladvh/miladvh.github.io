@@ -20,7 +20,7 @@ Las etiquetas de metadatos describen el proceso de creación de un término para
 </metadata>
 ```
 
-El título de la imagen: 
+Al mirar la postal digitalizada decidimos nombrarla de la siguiente manera porque define el autor, el recibidor y la fecha: 
 
 ```
     <dc:title> 
@@ -28,7 +28,7 @@ El título de la imagen:
     </dc:title> 
  ```
 
-El creador de la postal es:
+El remitente y autor de la postal es Lorca por lo que está justificado llamarlo el creador de la publicación:
 
 ```
     <dc:creator> 
@@ -36,7 +36,7 @@ El creador de la postal es:
     </dc:creator> 
  ```
  
-Las palabras clave que utilicé para explicar la postal: 
+Las palabras clave que solíamos describir la postal son los siguientes porque el origen de la tarjeta es Madrid, la parte escrita es una forma de correspondencia, es una postal y el autor es Lorca: 
 
 ```
     <dc:subject> 
@@ -53,7 +53,9 @@ Las palabras clave que utilicé para explicar la postal:
     </dc:subject>
 ```
 
-La descripción de la postal enviada por García Lorca: 
+Cuando miramos la publicación, encontramos que presentaba un mensaje personal en un lado de la tarjeta, por ejemplo, en el otro lado, con una imagen de Lanjaron. 
+
+Como tal, decidimos describirlo como una tarjeta destinada a un amigo cercano de Lorca: 
 
 ```
     <dc:description> 
