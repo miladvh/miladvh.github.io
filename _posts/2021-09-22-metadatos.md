@@ -76,7 +76,9 @@ Por lo tanto, cae bajo esta etiqueta:
 ```  
 
 
-El contribuyente es el receptor de la postal:
+Se determina que el colaborador es el recipiente de la postal porque es la otra parte presenete en esta publicación.
+
+La participación de María Chacón hace de la postal una representación de correspondencia entre dos amigos:
 
 ```
     <dc:contributor> 
@@ -84,7 +86,7 @@ El contribuyente es el receptor de la postal:
     </dc:contributor>
 ```
    
-La fecha en que se envió la postal: 
+La fecha es cuando envió la postal porque encontramos una marca de tiempo que nos permitió inferir que ahora estaba en tránsito y por lo tanto una forma de correspondencia realizada: 
 
 ```
     <dc:date> 
@@ -92,7 +94,7 @@ La fecha en que se envió la postal:
     </dc:date>
 ```   
 
-El tipo de publicación: 
+Había una lista de tipos de publicación que determinamos que era una imagen porque era una versión cargada digitalmente de la postal: 
 
 ```
     <dc:type> 
@@ -100,7 +102,7 @@ El tipo de publicación:
     </dc:type>
 ```
 
-El formato de la imagen es:
+El formato de la imagen es un jpg porque el archivo de la postal denota esta versión (.jpg):
 
 ```
     <dc:format> 
@@ -108,7 +110,7 @@ El formato de la imagen es:
     </dc:format>
 ```
 
-La postal se puede encontrar aquí: 
+El identificador es el enlace a la postal en el sitio web de la biblioteca de la Universidad de Miami porque está contenido en una determinada colección de su catálogo: 
 
 ```
     <dc:identifier> 
@@ -116,7 +118,7 @@ La postal se puede encontrar aquí:
     </dc:identifier>
  ```  
 
-La fuente de la publicación: 
+La fuente de la publicación es la biblioteca de la Universidad de Miami tal como lo publican digitalmente: 
 
 ```
     <dc:source> 
@@ -124,7 +126,7 @@ La fuente de la publicación:
     </dc:source>
 ```
 
-El idioma de la postal está en: 
+El idioma de la postal está en español por lo que se identifica como tal: 
 
 ```
     <dc:language> 
@@ -132,7 +134,7 @@ El idioma de la postal está en:
     </dc:language>
 ```   
 
-La fecha y el país de origen de la publicación: 
+Se determina que la fecha que cubre la postal es la vida de Lorca y el país de origen de la publicación se menciona para dar una ubicación físi ca al archivo: 
 
 ```
     <dc:coverage> 
@@ -143,7 +145,7 @@ La fecha y el país de origen de la publicación:
     </dc:coverage>
  ```
  
-La publicación es gratuita para que el público acceda: 
+La publicación es gratuita para que el público acceda, lo que significa que los derechos son de dominio público: 
 
 ```
     <dc:rights> 
