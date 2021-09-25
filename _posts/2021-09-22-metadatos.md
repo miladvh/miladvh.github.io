@@ -7,7 +7,11 @@ author: Mila Dvorquez-Herrera
 
 Doublin Core es un recurso de metadatos con 15 elementos que se utilizan para catalogar fuentes para bibliotecas e incluso museos y crea un índice digital completo para motores de búsqueda. Los recursos que utilizan Doublin Core pueden ser digitales como videos o imágenes o físicos como libros o obras de arte. También se puede describir como un estilo de metadatos que utiliza un marco de descripción de recursos al tiempo que proporciona un foro abierto. 
 
-Aquí está la enlace para la postal que es digitalizada por la biblioteca de la Universidad de Miami: https://merrick.library.miami.edu/cdm/compoundobject/collection/chc5324/id/31/rec/19
+Aquí está la enlace para la postal que es digitalizada por la biblioteca de la Universidad de Miami:
+
+```
+This is a link. https://merrick.library.miami.edu/cdm/compoundobject/collection/chc5324/id/31/rec/19
+```
 
 La etiqueta de apertura del código refleja nuestra definición del formato de los datos como estilo XML. 
 
