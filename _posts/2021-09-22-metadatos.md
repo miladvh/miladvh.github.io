@@ -5,7 +5,7 @@ date: 2021-09-22
 author: Mila Dvorquez-Herrera
 ---
 
-Explicación de qué es Doublin Core y el ejercicio que llevamos a cabo. Añade los links al item en la biblioteca (está en la Tarea 3) 
+Doublin Core es un recurso de metadatos con 15 elementos que se utilizan para catalogar fuentes para bibliotecos e incluso museos. También crea un índice digital completo para motores de búsqueda. Añade los links al item en la biblioteca (está en la Tarea 3) 
 
 Explica qué es cada cosa un poco mejor: 
 
