@@ -5,15 +5,15 @@ date: 2021-09-22
 author: Mila Dvorquez-Herrera
 ---
 
-Doublin Core es un recurso de metadatos con 15 elementos que se utilizan para catalogar fuentes para bibliotecas e incluso museos y crea un índice digital completo para motores de búsqueda. Los recursos que utilizan Doublin Core pueden ser digitales como videos o imágenes o físicos como libros o obras de arte. También se puede describir como un estilo de metadatos que utiliza un marco de descripción de recursos al tiempo que proporciona un foro abierto. 
+**Doublin Core** es un recurso de *metadatos con 15 elementos* que se utilizan para catalogar fuentes para bibliotecas e incluso museos y crea un índice digital completo para motores de búsqueda. Los recursos que utilizan **Doublin Core** pueden ser digitales como videos o imágenes o físicos como libros o obras de arte. También se puede describir como un estilo de metadatos que utiliza un marco de descripción de recursos al tiempo que proporciona un foro abierto. 
 
-Aquí está el enlace para la postal que es digitalizada por la biblioteca de la Universidad de Miami:
+Aquí está el enlace para la postal que es digitalizada por la biblioteca de *la Universidad de Miami*:
 
 [la postal](https://merrick.library.miami.edu/cdm/compoundobject/collection/chc5324/id/31/rec/19)
 
 
 
-La etiqueta de apertura del código refleja nuestra definición del formato de los datos como estilo XML. 
+La etiqueta de apertura del código refleja nuestra definición del formato de los datos como estilo **XML**. 
 
 Las etiquetas de metadatos describen el proceso de creación de un término para identificar palabras claves dentro de los archivos digitales de la publicación; en este caso sería la postal: 
 
@@ -32,7 +32,7 @@ Al mirar la postal digitalizada decidimos nombrarla de la siguiente manera porqu
     </dc:title> 
  ```
 
-El remitente y autor de la postal es Lorca por lo que está justificado llamarlo el creador de la publicación:
+El remitente y autor de la postal es *Lorca* por lo que está justificado llamarlo el creador de la publicación:
 
 ```
     <dc:creator> 
@@ -59,7 +59,7 @@ Como tal, esta descripción se ajusta a las etiquetas de tema porque abarcan el 
     </dc:subject>
 ```
 
-Cuando miramos la publicación, encontramos que presentaba un mensaje personal en un lado de la tarjeta, por ejemplo, en el otro lado, con una imagen de Lanjaron. 
+Cuando miramos la publicación, encontramos que presentaba un mensaje personal en un lado de la tarjeta, por ejemplo, en el otro lado, con una imagen de *Lanjaron*. 
 
 Como tal, decidimos describirlo como una tarjeta destinada a un amigo cercano de Lorca: 
 
@@ -69,7 +69,7 @@ Como tal, decidimos describirlo como una tarjeta destinada a un amigo cercano de
     </dc:description>
  ```
  
-En el lado de la postal con la imagen de Lanjaron, hay escrito que dice "Edición Jose Galvez" que determinamos que es el editor.
+En el lado de la postal con la imagen de Lanjaron, hay escrito que dice **"Edición Jose Galvez"** que determinamos que es el editor.
 
 Por lo tanto, cae bajo esta etiqueta: 
 
@@ -80,7 +80,7 @@ Por lo tanto, cae bajo esta etiqueta:
 ```  
 
 
-Se determina que el colaborador es el recipiente de la postal porque es la otra parte presenete en esta publicación.
+Se determina que el colaborador es el *recipiente* de la postal porque es la otra parte presente en esta publicación.
 
 La participación de María Chacón hace de la postal una representación de correspondencia entre dos amigos:
 
@@ -106,7 +106,7 @@ Había una lista de tipos de publicación que determinamos que era una imagen po
     </dc:type>
 ```
 
-El formato de la imagen es un jpg porque el archivo de la postal denota esta versión (.jpg):
+El formato de la imagen es un jpg porque el archivo de la postal denota esta versión **(.jpg)**:
 
 ```
     <dc:format> 
@@ -122,7 +122,7 @@ El identificador es el enlace a la postal en el sitio web de la biblioteca de la
     </dc:identifier>
  ```  
 
-La fuente de la publicación es la biblioteca de la Universidad de Miami tal como lo publican digitalmente: 
+La fuente de la publicación es la biblioteca de *la Universidad de Miami* tal como lo publican digitalmente: 
 
 ```
     <dc:source> 
@@ -149,7 +149,7 @@ Se determina que la fecha que cubre la postal es la vida de Lorca y el país de 
     </dc:coverage>
  ```
  
-La publicación es gratuita para que el público acceda, lo que significa que los derechos son de dominio público: 
+La publicación es gratuita para que el público acceda, lo que significa que los derechos son de **dominio público**: 
 
 ```
     <dc:rights> 
@@ -157,6 +157,6 @@ La publicación es gratuita para que el público acceda, lo que significa que lo
     </dc:rights>
 ```
 
-El ejercico fue una mirada interesante a un cierto tipo de catagolación de los metadatos y lo que sucede detrás de escena del Doublin Core; parcecía ser un proceso de análisis de partes específicas de la publicación, como el creador y el tipo de formato, mediante la selección meticulosa de diferentes elementos de la postal. 
+El ejercico fue una mirada interesante a un cierto tipo de catagolación de los *metadatos* y lo que sucede detrás de escena del **Doublin Core**; parcecía ser un proceso de análisis de partes específicas de la publicación, como el creador y el tipo de formato, mediante la selección meticulosa de diferentes elementos de la postal. 
 
-Creo que algunos de los desafíos que enfrenta un bibliotecario serían elementos exigentes como el editor y la mejor manera de describir la publicación porque es una visión subjetiva. Por esa razón, creo que Doublin Core es un programa realmente beneficioso para hacer que publicaciones como está estén disponibles para que el público las vea. 
+Creo que algunos de los desafíos que enfrenta un bibliotecario serían elementos exigentes como el editor y la mejor manera de describir la publicación porque es una visión subjetiva. Por esa razón, creo que Doublin Core es un programa realmente *beneficioso* para hacer que publicaciones como está estén disponibles para que el público las vea. 
