@@ -159,4 +159,4 @@ La publicación es gratuita para que el público acceda, lo que significa que lo
 
 El ejercico fue una mirada interesante a un cierto tipo de catagolación de los *metadatos* y lo que sucede detrás de escena del **Doublin Core**; parcecía ser un proceso de análisis de partes específicas de la publicación, como el creador y el tipo de formato, mediante la selección meticulosa de diferentes elementos de la postal. 
 
-Creo que algunos de los desafíos que enfrenta un bibliotecario serían elementos exigentes como el editor y la mejor manera de describir la publicación porque es una visión subjetiva. Por esa razón, creo que Doublin Core es un programa realmente *beneficioso* para hacer que publicaciones como está estén disponibles para que el público las vea. 
+Creo que algunos de los desafíos que enfrenta un bibliotecario serían elementos exigentes como el editor y la mejor manera de describir la publicación porque es una visión subjetiva. Por esa razón, creo que **Doublin Core** es un programa realmente *beneficioso* para hacer que publicaciones como está estén disponibles para que el público las vea. 
