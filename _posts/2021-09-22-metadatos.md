@@ -138,7 +138,7 @@ El idioma de la postal está en español por lo que se identifica como tal:
     </dc:language>
 ```   
 
-Se determina que la fecha que cubre la postal es la vida de Lorca y el país de origen de la publicación se menciona para dar una ubicación físi ca al archivo: 
+Se determina que la fecha que cubre la postal es la vida de Lorca y el país de origen de la publicación se menciona para dar una ubicación física al archivo: 
 
 ```
     <dc:coverage> 
@@ -157,4 +157,6 @@ La publicación es gratuita para que el público acceda, lo que significa que lo
     </dc:rights>
 ```
 
-Añade una conclusión: ¿qué te pareció el ejercicio? ¿cuáles crees que són los desafíos a los que se enfrenta un bibliotecario? etc. 
+El ejercico fue una mirada interesante a un cierto tipo de catagolación de los metadatos y lo que sucede detrás de escena del Doublin Core; parcecía ser un proceso de análisis de partes específicas de la publicación, como el creador y el tipo de formato, mediante la selección meticulosa de diferentes elementos de la postal. 
+
+Creo que algunos de los desafíos que enfrenta un bibliotecario serían elementos exigentes como el editor y la mejor manera de describir la publicación porque es una visión subjetiva. Por esa razón, creo que Doublin Core es un programa realmente beneficioso para hacer que publicaciones como está estén disponibles para que el público las vea. 
