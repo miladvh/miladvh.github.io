@@ -5,26 +5,22 @@ date: 2021-09-22
 author: Mila Dvorquez-Herrera
 ---
 
-**Doublin Core** es un recurso de *metadatos con 15 elementos* que se utilizan para catalogar fuentes para bibliotecas e incluso museos y crea un índice digital completo para motores de búsqueda. Los recursos que utilizan **Doublin Core** pueden ser digitales como videos o imágenes o físicos como libros o obras de arte. También se puede describir como un estilo de metadatos que utiliza un marco de descripción de recursos al tiempo que proporciona un foro abierto. 
+**Doublin Core** es un recurso de *metadatos con 15 elementos* que se utilizan para catalogar fuentes para bibliotecas e incluso museos. Uno de sus usos es la creación de un índice digital completo para motores de búsqueda. Los recursos que utiliza **Doublin Core** pueden ser digitales como videos o imágenes o físicos como libros o obras de arte. También se puede describir como un estilo de metadatos que utiliza un marco de descripción de recursos al tiempo que proporciona un foro abierto. 
 
 Aquí está el enlace para la postal que es digitalizada por la biblioteca de *la Universidad de Miami*:
 
-[la postal](https://merrick.library.miami.edu/cdm/compoundobject/collection/chc5324/id/31/rec/19)
+![la postal](https://merrick.library.miami.edu/cdm/compoundobject/collection/chc5324/id/31/rec/19)
 
-
-
-La etiqueta de apertura del código refleja nuestra definición del formato de los datos como estilo **XML**. 
-
-Las etiquetas de metadatos describen el proceso de creación de un término para identificar palabras claves dentro de los archivos digitales de la publicación; en este caso sería la postal: 
+La etiqueta de apertura del código refleja nuestra definición del formato de los datos con el lenguaje **XML**. Las etiquetas de metadatos describen el proceso de creación de un término para identificar palabras claves dentro de los archivos digitales de la publicación; en este caso sería la postal: 
 
 ```
-<?xml version="1.0"?>
-<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-(...)
-</metadata>
+    <?xml version="1.0"?>
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        (...)
+    </metadata>
 ```
 
-Al mirar la postal digitalizada decidimos nombrarla de la siguiente manera porque define el autor, el recibidor y la fecha: 
+Al mirar la postal digitalizada decidimos nombrarla de la siguiente manera porque define el autor, el destinatario y la fecha: 
 
 ```
     <dc:title> 
@@ -40,9 +36,7 @@ El remitente y autor de la postal es *Lorca* por lo que está justificado llamar
     </dc:creator> 
  ```
  
-Las palabras clave que solíamos describir la postal son los siguientes porque el origen de la tarjeta es Madrid, la parte escrita es una forma de correspondencia, es una postal y el autor es Lorca.
-
-Como tal, esta descripción se ajusta a las etiquetas de tema porque abarcan el significado de la publicación: 
+Las palabras clave que solíamos describir la postal son los siguientes porque el origen desde donde se escribió es Madrid, la parte escrita es una forma de correspondencia, es una postal y el autor es Lorca. Como tal, esta descripción se ajusta a las etiquetas de tema porque abarcan el significado de la publicación: 
 
 ```
     <dc:subject> 
@@ -59,9 +53,7 @@ Como tal, esta descripción se ajusta a las etiquetas de tema porque abarcan el 
     </dc:subject>
 ```
 
-Cuando miramos la publicación, encontramos que presentaba un mensaje personal en un lado de la tarjeta, por ejemplo, en el otro lado, con una imagen de *Lanjaron*. 
-
-Como tal, decidimos describirlo como una tarjeta destinada a un amigo cercano de Lorca: 
+Cuando miramos la publicación, encontramos que presentaba un mensaje personal en un lado de la tarjeta, por ejemplo, en el otro lado, con una imagen de *Lanjaron*. Como tal, decidimos describirlo como una tarjeta destinada a un amigo cercano de Lorca: 
 
 ```
     <dc:description> 
@@ -69,9 +61,7 @@ Como tal, decidimos describirlo como una tarjeta destinada a un amigo cercano de
     </dc:description>
  ```
  
-En el lado de la postal con la imagen de Lanjaron, hay escrito que dice **"Edición Jose Galvez"** que determinamos que es el editor.
-
-Por lo tanto, cae bajo esta etiqueta: 
+En el lado de la postal con la imagen de Lanjarón, hay un escrito que dice **Edición Jose Galvez** que determinamos que es el editor. Por lo tanto, cae bajo esta etiqueta: 
 
 ```
     <dc:publisher> 
@@ -79,10 +69,7 @@ Por lo tanto, cae bajo esta etiqueta:
     </dc:publisher>
 ```  
 
-
-Se determina que el colaborador es el *recipiente* de la postal porque es la otra parte presente en esta publicación.
-
-La participación de María Chacón hace de la postal una representación de correspondencia entre dos amigos:
+Se determina que el colaborador es el *destinatario* de la postal porque es la otra parte presente en esta publicación. La participación de José María Chacón hace de la postal una representación de correspondencia entre dos amigos:
 
 ```
     <dc:contributor> 
@@ -90,7 +77,7 @@ La participación de María Chacón hace de la postal una representación de cor
     </dc:contributor>
 ```
    
-La fecha es cuando envió la postal porque encontramos una marca de tiempo que nos permitió inferir que ahora estaba en tránsito y por lo tanto una forma de correspondencia realizada: 
+La fecha es cuando envió la postal porque encontramos una marca de tiempo que nos permitió inferir cuándo estaba en tránsito y por lo tanto una forma de correspondencia realizada: 
 
 ```
     <dc:date> 
@@ -157,6 +144,4 @@ La publicación es gratuita para que el público acceda, lo que significa que lo
     </dc:rights>
 ```
 
-El ejercico fue una mirada interesante a un cierto tipo de catagolación de los *metadatos* y lo que sucede detrás de escena del **Doublin Core**; parcecía ser un proceso de análisis de partes específicas de la publicación, como el creador y el tipo de formato, mediante la selección meticulosa de diferentes elementos de la postal. 
-
-Creo que algunos de los desafíos que enfrenta un bibliotecario serían elementos exigentes como el editor y la mejor manera de describir la publicación porque es una visión subjetiva. Por esa razón, creo que **Doublin Core** es un programa realmente *beneficioso* para hacer que publicaciones como está estén disponibles para que el público las vea. 
+El ejercico fue una mirada interesante a un cierto tipo de catagolación de *metadatos* y lo que sucede detrás de escena de **Doublin Core**; parcecía ser un proceso de análisis de partes específicas de la publicación, como el creador y el tipo de formato, mediante la selección meticulosa de diferentes elementos de la postal. Creo que algunos de los desafíos a los que se enfrenta un bibliotecario serían elementos exigentes como el editor y la mejor manera de describir la publicación porque es una visión subjetiva. Por esa razón, creo que **Doublin Core** es un modelo de metadatos realmente *beneficioso* para hacer que publicaciones como está estén disponibles para que el público las encuentre conectada a una serie de información útil y reutilizable. 
