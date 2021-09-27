@@ -9,7 +9,7 @@ author: Mila Dvorquez-Herrera
 
 Aquí está el enlace para la postal que es digitalizada por la biblioteca de *la Universidad de Miami*:
 
-![la postal](https://merrick.library.miami.edu/cdm/compoundobject/collection/chc5324/id/31/rec/19)
+![la postal](https://github.com/susannalles/SPA410/blob/main/22-sept/Williams/chc5324_29_large.jpg)
 
 La etiqueta de apertura del código refleja nuestra definición del formato de los datos con el lenguaje **XML**. Las etiquetas de metadatos describen el proceso de creación de un término para identificar palabras claves dentro de los archivos digitales de la publicación; en este caso sería la postal: 
 
