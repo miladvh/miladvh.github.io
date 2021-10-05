@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Análisis de un edición digital: The World of Dante
-date: 2021-10-04
+title: "Metadatos sobre la postal de Federico García Lorca"
+date: 2021-09-22
 author: Mila Dvorquez-Herrera
 ---
 # *The World of Dante*
-[URL:](http://www.worldofdante.org/about.html)
+URL:<http://www.worldofdante.org/about.html>
