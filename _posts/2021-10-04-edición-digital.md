@@ -16,3 +16,16 @@ El proyecto se publicó en línea en 1996 y solo presentaba la parte del Infiern
 La audiencia a la que va destinada este proyecto incluye no solo académicos, sino también lectores en general y profesores de la Divina Comedia. Parker quería crear una interfaz más interactiva y dinámica para que las personas interactuaran con el texto más allá de las simples palabras. Por todo ello,  incluyó videos, música e imágenes. El sitio web tiene un video introductorio sobre los aspectos del mundo de Dante y proporciona una vista resumida de cómo navegar por él; como tal, es fácil de usar y nos da un panorama general para el contexto del poema de una manera que involucra diferentes formas de medios. 
 
 De hecho, el objetivo principal de este proyecto es proporcionar a los usuarios de The World of Dante una plataforma multimedia interactiva que se basa en imágenes como mapas y pinturas, música, así como ofrece traducciones de texto, lo que brinda una introducción completa a la Divina Comedia de Dante Alighieri. Esto es importante porque capta la atención de una audiencia más amplia al atender diferentes estilos de aprendizaje y permitir que las personas vean cómo los medios digitales pueden transformar el texto.
+
+# Presentación
+
+El formato de presentación seleccionado para este proyecto es una edición digital que reúne diferentes recursos para crear un acercamiento multimedia al poema de Dante Alighieri. En mi opinión, esta selección de formato funciona muy bien porque es más dinámica que observar un simple texto traducido y nos permite aprender el contexto histórico de la obra a través de medios como pinturas y música. 
+Uno de los recursos del sitio web que ofrece una visión simplista pero completa del contexto es la herramienta de audio donde Parker resume la Divina Comedia y ofrece pautas sobre cómo explorarla a través de la plataforma. 
+
+
+Además de esto, hay una línea de tiempo que pone en relación los eventos de la vida de Dante con los eventos que tienen lugar en su poema, lo que brinda antecedentes sobre el periódo de tiempo y el desarrollo de la obra. Al ser alguien que no estaba particularmente familiarizado con esta obra, el sitio web realmente me sumergió en el período de tiempo y me permitió captar el contenido de esta obra medieval. 
+
+En términos de accesibilidad, creo que este sitio web es estelar porque el contraste entre el texto y el fondo es fuerte, hay texto alternativo para imágenes y diferentes componentes multimedias. 
+
+Estos componentes incluyen videos con subtítulos, clips de audio, mapas, música e incluso una barra de búsqueda que explora la versión xml de la divina comedia. Con respecto a la formación del “back-end” del sitio, The World of Dante utilizó una versión generada por software del texto que luego se editó en xml. 
+
