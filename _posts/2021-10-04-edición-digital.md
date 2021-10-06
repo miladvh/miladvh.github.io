@@ -33,6 +33,8 @@ Uno de los recursos del sitio web que ofrece una visión simplista pero completa
 
 Además de esto, hay una línea de tiempo que pone en relación los eventos de la vida de Dante con los eventos que tienen lugar en su poema, lo que brinda antecedentes sobre el periódo de tiempo y el desarrollo de la obra. Al ser alguien que no estaba particularmente familiarizado con esta obra, el sitio web realmente me sumergió en el período de tiempo y me permitió captar el contenido de esta obra medieval. 
 
+<img src="/assets/images/SPA410_Imagenes.jpg/003.png" alt="imagen" width="500">
+
 En términos de accesibilidad, creo que este sitio web es estelar porque el contraste entre el texto y el fondo es fuerte, hay texto alternativo para imágenes y diferentes componentes multimedias. 
 
 Estos componentes incluyen videos con subtítulos, clips de audio, mapas, música e incluso una barra de búsqueda que explora la versión xml de la divina comedia. Con respecto a la formación del “back-end” del sitio, *The World of Dante* utilizó una versión generada por software del texto que luego se editó en xml. 
