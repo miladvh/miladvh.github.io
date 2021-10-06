@@ -21,7 +21,7 @@ La audiencia a la que va destinada este proyecto incluye no solo académicos, si
 
 De hecho, el objetivo principal de este proyecto es proporcionar a los usuarios de *The World of Dante* una plataforma multimedia interactiva que se basa en imágenes como mapas y pinturas, música, así como ofrece traducciones de texto, lo que brinda una introducción completa a la Divina Comedia de Dante Alighieri. Esto es importante porque capta la atención de una audiencia más amplia al atender diferentes estilos de aprendizaje y permitir que las personas vean cómo los medios digitales pueden transformar el texto.
 
-<img src="/assets/images/SPA410_Imagenes.jpg/007.png" alt="imagen" width="500" 
+<img src="/assets/images/SPA410_Imagenes.jpg/007.png" alt="imagen" width="500">
 
 ## Presentación
 
