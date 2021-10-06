@@ -46,3 +46,4 @@ En relación con estos materiales análogos utilizados para la creación del sit
 Algunas de las ventajas de este material incluyen la capacidad de ver el mundo de Dante y su poema a través de una lente multimedia en lugar de un texto plano. Además, permite a los usuarios navegar activamente en el sitio web en lugar de internalizar pasivamente el material y amplia la audiencia interesada en aprender sobre la Divina Comedia. Por otro lado, el sitio web puede ofrecer demasiados recursos multimedia que restan valor a la experiencia visual del usuario. Por lo tanto, es más útil para una audiencia que desea una mirada más involucrada en los medios digitales a este texto. 
 
 Como consecuencia, *The World of Dante* nos proporciona una perspectiva multifacética de la Divina Comedia y abre el camino para ilustrar cómo las herramientas de investigación pueden ser más dinámicas. 
+
