@@ -45,9 +45,17 @@ Estos componentes incluyen videos con subtítulos, clips de audio, mapas, músic
 
 ## Materiales y Datos 
 
-El proyecto utiliza dos versiones de texto de la comedia de Dante, una de Allen Mandelbaum y el texto italiano que es editado por Giorgio Petrocchi. Además del texto, la música se obtiene de Zephyrus: Central Virginia's Early Music Vocal Ensemble. También se utilizan imágenes y un ejemplo es el de la pintura, Dante and his Poem (1465) de Domenico Michelino que se reproduce desde el Museo dell’Opera del Duomo en Florencia. Los mapas son otro material utilizado para ilustrar la Divina Comedia y retratar las ubicaciones geográficas de Europa, Italia, Toscana y Florencia; así como un modelo de madera de Florencia que se reprodujo del Museo Casa di Dante. 
+El proyecto utiliza dos versiones de texto de la comedia de Dante, una de Allen Mandelbaum y el texto italiano que es editado por Giorgio Petrocchi. Además del texto, la música se obtiene de Zephyrus: Central Virginia's Early Music Vocal Ensemble. 
 
+<img src="/assets/images/SPA410_Imagenes.jpg/008.png" alt="imagen" width="500">
+
+También se utilizan imágenes y un ejemplo es el de la pintura, Dante and his Poem (1465) de Domenico Michelino que se reproduce desde el Museo dell’Opera del Duomo en Florencia. Los mapas son otro material utilizado para ilustrar la Divina Comedia y retratar las ubicaciones geográficas de Europa, Italia, Toscana y Florencia; así como un modelo de madera de Florencia que se reprodujo del Museo Casa di Dante. 
+
+<img src="/assets/images/SPA410_Imagenes.jpg/009.png" alt="imagen" width="500">
+          
 En relación con estos materiales análogos utilizados para la creación del sitio, las instituciones que los poseen son la Biblioteca Apostólica Vaticana, el Museo Casa di Dante, el Cornell Fiske Dante Collection, Museo del Bigallo, Museo di Firenze com’era, y la Biblioteca Británica. 
+
+<img src="/assets/images/SPA410_Imagenes.jpg/010.png" alt="imagen" width="500">
 
 Algunas de las ventajas de este material incluyen la capacidad de ver el mundo de Dante y su poema a través de una lente multimedia en lugar de un texto plano. Además, permite a los usuarios navegar activamente en el sitio web en lugar de internalizar pasivamente el material y amplia la audiencia interesada en aprender sobre la Divina Comedia. Por otro lado, el sitio web puede ofrecer demasiados recursos multimedia que restan valor a la experiencia visual del usuario. Por lo tanto, es más útil para una audiencia que desea una mirada más involucrada en los medios digitales a este texto. 
 
