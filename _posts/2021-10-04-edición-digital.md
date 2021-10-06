@@ -28,7 +28,7 @@ De hecho, el objetivo principal de este proyecto es proporcionar a los usuarios 
 El formato de presentación seleccionado para este proyecto es una edición digital que reúne diferentes recursos para crear un acercamiento multimedia al poema de Dante Alighieri. En mi opinión, esta selección de formato funciona muy bien porque es más dinámica que observar un simple texto traducido y nos permite aprender el contexto histórico de la obra a través de medios como pinturas y música. 
 Uno de los recursos del sitio web que ofrece una visión simplista pero completa del contexto es la herramienta de audio donde Parker resume la Divina Comedia y ofrece pautas sobre cómo explorarla a través de la plataforma. 
 
-<img src="/assets/images/SPA410_Imagenes.jpg/004.png" alt="imagen" width="500">
+<img src="/assets/images/SPA410_Imagenes.jpg/004.png" alt="imagen" width="400">
 
 
 Además de esto, hay una línea de tiempo que pone en relación los eventos de la vida de Dante con los eventos que tienen lugar en su poema, lo que brinda antecedentes sobre el periódo de tiempo y el desarrollo de la obra. Al ser alguien que no estaba particularmente familiarizado con esta obra, el sitio web realmente me sumergió en el período de tiempo y me permitió captar el contenido de esta obra medieval. 
