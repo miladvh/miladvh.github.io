@@ -37,6 +37,8 @@ Además de esto, hay una línea de tiempo que pone en relación los eventos de l
 
 En términos de accesibilidad, creo que este sitio web es estelar porque el contraste entre el texto y el fondo es fuerte, hay texto alternativo para imágenes y diferentes componentes multimedias. 
 
+<img src="/assets/images/SPA410_Imagenes.jpg/007.png" alt="imagen" width="500">
+
 Estos componentes incluyen videos con subtítulos, clips de audio, mapas, música e incluso una barra de búsqueda que explora la versión xml de la divina comedia. Con respecto a la formación del “back-end” del sitio, *The World of Dante* utilizó una versión generada por software del texto que luego se editó en xml. 
 
 ## Materiales y Datos 
