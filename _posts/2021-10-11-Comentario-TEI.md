@@ -11,6 +11,8 @@ author: Mila Dvorquez-Herrera
 
 Algunos principios básicos del **TEI** son que es *independiente* de cualquier plataforma o programa en particular, se utiliza para *estructurar* textos de manera eficiente y procesada, y se puede *personalizar* para su área de estudio. 
 
+![Imagen](https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) 
+
 
 ## Declaración XML 
 
