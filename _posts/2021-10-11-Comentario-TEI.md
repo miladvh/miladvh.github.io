@@ -36,14 +36,14 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
 Después del prólogo del documento, el elemento **raíz** en este caso, *TEI*, englobará la totalidad de los elementos XML-TEI; estos incluyen el encabezado y el texto. 
 
-En términos del espacio de nombre, a través del uso de *xmlns="http://www.tei-c.org/ns/1.0"* estamos identificando todos los elementos y atributos dentro de la raíz como correpsondientes a ese espacio de nombre específico. 
+En términos del espacio de nombre, a través del uso de *xmlns="http://www.tei-c.org/ns/1.0"* estamos identificando todos los elementos y atributos dentro de la raíz como correspondientes a ese espacio de nombre específico. 
 
 ```
 <TEI xmlns="http://www.tei-c.org/ns/1.0"></TEI> 
 ```
 ## Encabezado
 
-Una de las dos grandes secciones del documento XML-TEI es el encabezado, que aparece como la etiqueta *teiHeader*. 
+Una de las dos grandes secciones del **documento XML-TEI** es el encabezado, que aparece como la etiqueta *teiHeader*. 
   
 Los metadatos de la información relevante sobre el texto se encuentran en el encabezado que presenta las etiquetas de *fileDesc, titleStmt, publicationStmt y sourceDesc*. 
   
@@ -69,9 +69,9 @@ Los metadatos de la información relevante sobre el texto se encuentran en el en
   
 ## Texto
 
-La segunda sección más grande de un documento XML-TEI es el texto. Dentro del texto hay un subelemento llamado *body*. Esta sección contiene el texto real del documento y es una función obligatoria del cuerpo. 
+La segunda sección más grande de un **documento XML-TEI** es el texto. Dentro del texto hay un subelemento llamado *body*. Esta sección contiene el texto real del documento y es una función obligatoria del cuerpo. 
 
-Utilizamos una etiqueta de párrafo dentro del elemento del cuerpo para ejemplificar el texto que aparecería en cualquier otro documento XML-TEI. 
+Utilizamos una etiqueta de párrafo dentro del elemento del cuerpo para ejemplificar el texto que aparecería en cualquier otro **documento XML-TEI**. 
 
 La etiqueta *figure* también incluye una URL gráfica que es un enlace de hipertexto que conduce a una imagen. 
  
