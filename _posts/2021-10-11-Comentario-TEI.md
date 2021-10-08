@@ -21,7 +21,8 @@ En el prólogo nos dice que estamos utilizando un documento XML y que contiene l
 ```
 ## Asociación al esquema .rng
 
-La asociación del modelo de esquema para este documento es el marco relaxNG (.rng). RelaxNG es el modelo concreto que usaremos para marcar el texto del documento XML-TEI. 
+La asociación del modelo de esquema para este documento es el marco relaxNG (.rng). RelaxNG es el lenguaje del esquema que establece un modelo concreto para marcar el texto del documento XML-TEI e identifica una pauta estructurada para el contenido. 
+
 ```
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml"
