@@ -14,7 +14,8 @@ Algunos principios básicos del **TEI** son que es *independiente* de cualquier 
 
 ## Declaración XML 
 
-En el prólogo nos dice que estamos utilizando un documento XML y que contiene la versión 1.0 del estándar XML. También nos indica qué caracteres de codificación usa el documento; En este caso, el texto está encriptado en Unicode,UTF-8 cuál, que se ve como una combinación de caracteres que es más universal y se puede ser utilizado por muchos sistemas de codificación.
+En el prólogo nos dice que estamos utilizando un documento XML y que contiene la versión 1.0 del estándar XML. También nos indica qué caracteres de codificación usa el documento.
+En este caso, el texto está encriptado en Unicode, UTF-8, que se ve como una combinación de caracteres que es más universal y se puede ser utilizado por muchos sistemas de codificación.
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
