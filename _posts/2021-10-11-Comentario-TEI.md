@@ -20,13 +20,15 @@ En el prólogo nos dice que estamos tratando con un documento XML y que usa un U
 ```
 ## Asociación al esquema .rng
 
-
+La asociación del modelo de esquema para este documento es el marco relaxNG (.rng). RelaxNG es el modelo concreto que usaremos para marcar el texto del documento XML-TEI. 
 ```
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml"
 schematypens="http://purl.oclc.org/dsdl/schematron"?>
 ```
-## Elemento raiz & Espacio de nombre	
+## Elemento raíz & Espacio de nombre	
+
+Después del prólogo del documento, el elemento raíz en este caso, TEI, englobará la totalidad de los elementos XML-TEI. Estos incluyen el encabezado y el texto. 
 ```
 <TEI xmlns="http://www.tei-c.org/ns/1.0"></TEI> 
 ```
