@@ -41,7 +41,7 @@ En términos del espacio de nombre, a través del uso de *xmlns="http://www.tei-
 ```
 ## Encabezado
 
-Una de las dos grandes secciones del documento XML-TEI es el encabezao, que aparece como la etiqueta teiHeader. 
+Una de las dos grandes secciones del documento XML-TEI es el encabezado, que aparece como la etiqueta teiHeader. 
   
 Los metadatos de la información relevante sobre el texto se encuentran en el encabezado que presenta las etiquetas de fileDesc, titleStmt, publicationStmt y sourceDesc. 
   
@@ -60,10 +60,10 @@ Los metadatos de la información relevante sobre el texto se encuentran en el en
       </fileDesc>
   </teiHeader>
   ```
-  1. fileDesc: 
-  2. titleStmt: 
-  3. publicationStmt:
-  4. sourceDesc: 
+  1. fileDesc: En el encabezado, este elemento es el único que es obligatorio e incluye información sobre el fichero XML-TEI así como detalles sobre la fuente primaria. 
+  2. titleStmt: Este elemento proporciona información sobre el nombre del archivo y se puede anidar en una etiqueta de *título*. En este caso, se nombra como un ejercico para nuestra clase. 
+  3. publicationStmt: Este elemento nos da información sobre la publicación digital del fichero y utiliza la etiqueta de párrafo. Nuestro ejercicio define a la Universidad de Miami como la editorial.
+  4. sourceDesc: Esto da detalles sobre la fuente orginial. En nuestro caso, se define como un archivo digital creado para SPA 410. 
   
 ## Texto
  
