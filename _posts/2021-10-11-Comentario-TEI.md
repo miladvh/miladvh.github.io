@@ -64,7 +64,7 @@ Los metadatos de la información relevante sobre el texto se encuentran en el en
   ```
   1. **fileDesc**: En el encabezado, este elemento es el único que es obligatorio e incluye información sobre el fichero XML-TEI así como detalles sobre la fuente primaria. 
   2. **titleStmt**: Este elemento proporciona información sobre el nombre del archivo y se puede anidar en una etiqueta de *título*. En este caso, se nombra como un ejercico para nuestra clase. 
-  3. **publicationStmt**: Este elemento nos da información sobre la publicación digital del fichero y utiliza la etiqueta de párrafo. Nuestro ejercicio define a la Universidad de Miami como la editorial.
+  3. **publicationStmt**: Este elemento nos da información sobre la publicación digital del fichero y utiliza la etiqueta de párrafo. Nuestro ejercicio define a *la Universidad de Miami* como la editorial.
   4. **sourceDesc**: Esto nos da detalles sobre la fuente orginial. En nuestro caso, se define como un archivo digital creado para SPA 410. 
   
 ## Texto
@@ -86,4 +86,4 @@ La etiqueta *figure* también incluye una URL gráfica que es un enlace de hiper
   </text>
 ```
 
-En general, la formación de un documento XML-TEI está estructurada de manera informative y me ha enseñado cómo se puede adaptar el TEI para estudis específicos. 
+En general, la formación de un documento XML-TEI está estructurada de manera informative y me ha enseñado cómo se puede adaptar el TEI para estudios específicos. 
