@@ -43,7 +43,7 @@ En términos del espacio de nombre, a través del uso de *xmlns="http://www.tei-
 
 Una de las dos grandes secciones del documento XML-TEI es el encabezao, que aparece como la etiqueta teiHeader. 
   
-Los metadatos de la información relevante sobre el texto se encuentran en el encabezado que presenta las etiquetas de fileDesc, titleStmt, publication Stmt y sourceDesc. 
+Los metadatos de la información relevante sobre el texto se encuentran en el encabezado que presenta las etiquetas de fileDesc, titleStmt, publicationStmt y sourceDesc. 
   
 ```
   <teiHeader>
@@ -60,6 +60,11 @@ Los metadatos de la información relevante sobre el texto se encuentran en el en
       </fileDesc>
   </teiHeader>
   ```
+  1. fileDesc: 
+  2. titleStmt: 
+  3. publicationStmt:
+  4. sourceDesc: 
+  
 ## Texto
  
  ```
