@@ -14,7 +14,9 @@ Algunos principios básicos del **TEI** son que es *independiente* de cualquier 
 
 ## Declaración XML 
 
-En el prólogo nos dice que estamos utilizando un documento **XML** y que contiene *la versión 1.0* del estándar XML. También nos indica qué caracteres de codificación usa el documento. En este caso, el texto está encriptado en Unicode, *UTF-8*, que se ve como una combinación de caracteres que es más universal y se puede ser utilizado por muchos sistemas de codificación.
+En el prólogo nos dice que estamos utilizando un documento **XML** y que contiene *la versión 1.0* del estándar XML. 
+
+También nos indica qué caracteres de codificación usa el documento. En este caso, el texto está encriptado en Unicode, *UTF-8*, que se ve como una combinación de caracteres que es más universal y se puede ser utilizado por muchos sistemas de codificación.
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
@@ -30,7 +32,9 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 ```
 ## Elemento raíz & Espacio de nombre	
 
-Después del prólogo del documento, el elemento **raíz** en este caso, *TEI*, englobará la totalidad de los elementos XML-TEI; estos incluyen el encabezado y el texto. En términos del espacio de nombre, a través del uso de *xmlns="http://www.tei-c.org/ns/1.0"* estammos identificando todos los elementos y atributos dentro de la raíz como correpsondientes a ese espacio de nombre específico. 
+Después del prólogo del documento, el elemento **raíz** en este caso, *TEI*, englobará la totalidad de los elementos XML-TEI; estos incluyen el encabezado y el texto. 
+
+En términos del espacio de nombre, a través del uso de *xmlns="http://www.tei-c.org/ns/1.0"* estammos identificando todos los elementos y atributos dentro de la raíz como correpsondientes a ese espacio de nombre específico. 
 
 ```
 <TEI xmlns="http://www.tei-c.org/ns/1.0"></TEI> 
