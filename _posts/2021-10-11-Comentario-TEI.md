@@ -34,12 +34,16 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
 Después del prólogo del documento, el elemento **raíz** en este caso, *TEI*, englobará la totalidad de los elementos XML-TEI; estos incluyen el encabezado y el texto. 
 
-En términos del espacio de nombre, a través del uso de *xmlns="http://www.tei-c.org/ns/1.0"* estammos identificando todos los elementos y atributos dentro de la raíz como correpsondientes a ese espacio de nombre específico. 
+En términos del espacio de nombre, a través del uso de *xmlns="http://www.tei-c.org/ns/1.0"* estamos identificando todos los elementos y atributos dentro de la raíz como correpsondientes a ese espacio de nombre específico. 
 
 ```
 <TEI xmlns="http://www.tei-c.org/ns/1.0"></TEI> 
 ```
 ## Encabezado
+
+Una de las dos grandes secciones del documento XML-TEI es el encabezao, que aparece como <teiHeader>. 
+  
+Los metadatos de la información relevante sobre el texto se encuentran en el encabezado que presenta el <fileDesc>, <titleStmt>, <publication Stmt> y <sourceDesc>.
 ```
   <teiHeader>
       <fileDesc>
