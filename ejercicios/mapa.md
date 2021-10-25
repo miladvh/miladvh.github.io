@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Mapa sobre el recorrido de Leonor
+title:  Tarea digital 5 Mapa sobre el recorrido de Leonor
 ---
 
 Explicación sobre el mapa y el viaje que realizó Leonor. 
