@@ -76,7 +76,7 @@
                                         >https://archive.org/details/n16365laespaamoderna14madruoft/page/n125/mode/2up</a>
                                 </span>
                                 <br/>
-                                <p>Consulta el <a href="https://dh-miami.github.io/ejercicios/mapa.html">mapa con el recorrido de Leonor</a></p>
+                                <p>Consulta el <a href="https://miladvh.github.io/ejercicios/mapa.html">mapa con el recorrido de Leonor</a></p>
                             </div>
 
                             <xsl:apply-templates/>
@@ -95,16 +95,15 @@
                                     </a>
                                 </p>
                                 <ul class="contact-list">
-                                    <li class="p-name">Susanna Alles-Torrent</li>
+                                    <li class="p-name">Mila Dvorquez-Herrera/li>
                                     <li>
-                                        <a class="u-email" href="mailto:susanna_alles@miami.edu"
-                                            >susanna_alles@miami.edu</a>
+                                        <a class="u-email" href="mailto:mdd140@miami.edu"
+                                            >mdd140@miami.edu</a>
                                     </li>
                                 </ul>
                             </div>
                             <div class="footer-col">
-                                <p>Prueba de la página DH Miami para mis estudiantes que son todos
-                                    estupendos. </p>
+                                <p>Sitio web para las humanidades digitales de SPA 410.</p>
                             </div>
                         </div>
                         <div class="social-links">
