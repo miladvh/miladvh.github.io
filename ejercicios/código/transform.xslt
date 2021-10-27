@@ -90,7 +90,7 @@
                             <div class="footer-col">
                                 <p class="feed-subscribe">
                                     <a href="/feed.xml">
-                                        <!--<svg class="svg-icon orange"></svg>-->
+                                        <svg class="svg-icon orange"></svg>
                                         <span>Subscribe</span>
                                     </a>
                                 </p>
