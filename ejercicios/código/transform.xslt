@@ -109,8 +109,8 @@
                         <div class="social-links">
                             <ul class="social-media-list">
                                 <li>
-                                    <a rel="me" href="https://github.com/susannalles"
-                                        title="susannalles">
+                                    <a rel="me" href="https://https://github.com/miladvh"
+                                        title="miladvh">
                                         <!--<svg class="svg-icon grey"></svg>--></a>
                                 </li>
                                 <li>
