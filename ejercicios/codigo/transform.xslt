@@ -111,9 +111,7 @@
                                 <li>
                                     <a rel="me" href="https://https://github.com/miladvh"
                                         title="miladvh">
-                                        <svg class="svg-icon grey"></svg><use href="/assets/minima-social-icons.svg#rss"></use></a>
-                                </li>
-                            </ul>
+                                        <svg class="svg-icon grey"></svg><use href="/assets/minima-social-icons.svg#github"></use></a> </li></ul>
                         </div>
                     </div>
                 </footer>
