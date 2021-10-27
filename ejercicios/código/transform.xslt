@@ -90,7 +90,7 @@
                             <div class="footer-col">
                                 <p class="feed-subscribe">
                                     <a href="/feed.xml">
-                                        <svg class="svg-icon orange"></svg>
+                                        <svg class="svg-icon orange"><use href="/assets/minima-social-icons.svg#rss"></use></svg>
                                         <span>Subscribe</span>
                                     </a>
                                 </p>
@@ -109,7 +109,7 @@
                         <div class="social-links">
                             <ul class="social-media-list">
                                 <li>
-                                    <a rel="me" href="https://https://github.com/miladvh/miladvh.github.io"
+                                    <a rel="me" href="https://https://github.com/miladvh"
                                         title="miladvh">
                                         <svg class="svg-icon grey"></svg><use href="/assets/minima-social-icons.svg#rss"></use></a>
                                 </li>
