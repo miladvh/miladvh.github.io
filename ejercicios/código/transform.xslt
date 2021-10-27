@@ -111,11 +111,11 @@
                                 <li>
                                     <a rel="me" href="https://https://github.com/miladvh/miladvh.github.io"
                                         title="miladvh">
-                                        <!--<svg class="svg-icon grey"></svg>--></a>
+                                        <svg class="svg-icon grey"></svg></a>
                                 </li>
                                 <li>
                                     <a rel="me" href="https://twitter.com/sallesto" title="sallesto">
-                                        <!--<svg class="svg-icon grey"></svg>--></a>
+                                        <svg class="svg-icon grey"></svg></a>
                                 </li>
                             </ul>
                         </div>
