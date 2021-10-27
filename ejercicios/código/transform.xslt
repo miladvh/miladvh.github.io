@@ -95,7 +95,7 @@
                                     </a>
                                 </p>
                                 <ul class="contact-list">
-                                    <li class="p-name">Mila Dvorquez-Herrera/li>
+                                    <li class="p-name">Mila Dvorquez-Herrera</li>
                                     <li>
                                         <a class="u-email" href="mailto:mdd140@miami.edu"
                                             >mdd140@miami.edu</a>
