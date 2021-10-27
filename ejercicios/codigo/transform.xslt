@@ -109,7 +109,7 @@
                         <div class="social-links">
                             <ul class="social-media-list">
                                 <li>
-                                    <a rel="me" href="https://https://github.com/miladvh"
+                                    <a rel="me" href="https://github.com/miladvh"
                                         title="miladvh">
                                         <svg class="svg-icon grey"></svg><use href="/assets/minima-social-icons.svg#github"></use></a> </li></ul>
                         </div>
