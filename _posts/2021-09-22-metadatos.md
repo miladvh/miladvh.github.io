@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Metadatos sobre la postal de Federico García Lorca"
+title: "Tarea 3. Metadatos sobre la postal de Federico García Lorca"
 date: 2021-09-22
 author: Mila Dvorquez-Herrera
 ---
