@@ -1,14 +1,12 @@
 ---
 layout: post
-title: "Análisis de un proyecto de HD: Mapping Decadence"
+title: "Presentación 1: Análisis de Mapping Decadence"
 date: 2021-08-30
 author: Mila Dvorquez-Herrera
 ---
 
 
-# Mapping Decadence
-
-URL: <http://mappingdecadence.org> 
+**Mapping Decadence**: URL: <http://mappingdecadence.org> 
 
 Mapping Decadence es un proyecto de investigación que pretende demostrar cómo la ubicación física y social de los escritores activos en París durante el siglo XIX jugó un papel importante en su colaboración con sus editores. Fue creado por Huet para visualizar la colaboración que se establece entre un escritor y un editor y un determinado espacio social.
 
