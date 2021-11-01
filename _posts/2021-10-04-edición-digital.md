@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Análisis de una edición digital: The World of Dante"
+title: "Presentación 2: La edición digital de The World of Dante"
 date: 2021-10-04
 author: Mila Dvorquez-Herrera
 ---
