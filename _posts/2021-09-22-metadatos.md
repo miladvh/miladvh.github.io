@@ -7,9 +7,9 @@ author: Mila Dvorquez-Herrera
 
 **Doublin Core** es un recurso de *metadatos con 15 elementos* que se utilizan para catalogar fuentes para bibliotecas e incluso museos. Uno de sus usos es la creación de un índice digital completo para motores de búsqueda. Los recursos que utiliza **Doublin Core** pueden ser digitales como videos o imágenes o físicos como libros o obras de arte. También se puede describir como un estilo de metadatos que utiliza un marco de descripción de recursos al tiempo que proporciona un foro abierto. 
 
-Aquí está el enlace para la postal que es digitalizada por la biblioteca de *la Universidad de Miami*:
+Aquí está la postal que está digitalizada por la biblioteca de *la Universidad de Miami*:
 
-![la postal](https://github.com/susannalles/SPA410/blob/main/22-sept/Williams/chc5324_29_large.jpg)
+![la postal](https://susannalles.github.io/SPA410/ejercicios/22-sept/Williams/chc5324_29_large.jpg)
 
 La etiqueta de apertura del código refleja nuestra definición del formato de los datos con el lenguaje **XML**. Las etiquetas de metadatos describen el proceso de creación de un término para identificar palabras claves dentro de los archivos digitales de la publicación; en este caso sería la postal: 
 
